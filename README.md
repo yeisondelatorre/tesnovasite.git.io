@@ -1,1 +1,1 @@
-# tesnovasite.git.io
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43f0d295-2664-4c6c-8c40-308644fb9098/deploy-status)](https://app.netlify.com/sites/tesnova/deploys)# tesnovasite.git.io
