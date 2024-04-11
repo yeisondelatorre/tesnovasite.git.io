@@ -1,0 +1,19 @@
+---
+title: "TESNOVA"
+image: logo.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: github
+      href: https://github.com/yeisondelatorre
+    # (additional links excluded for brevity)
+---
+
+**CENTRO DE DESARROLLO TECNOLÓGICO E INNOVACIÓN TERRITORIAL SOSTENIBLE DEL CARIBE -TESNOVA**
+
+***"Construyendo juntos un futuro inclusivo y sostenible para todos."***
+
+En nuestra organización sin ánimo de lucro, nos dedicamos a construir un futuro donde todas las personas, independientemente de su edad, género, etnia o condición, puedan prosperar. Trabajamos en estrecha colaboración con las comunidades locales para abordar sus necesidades más apremiantes y promover el bienestar social, cultural, económico y ambiental. Desde la gestión de políticas públicas hasta el desarrollo de programas y proyectos, estamos comprometidos con el empoderamiento y la inclusión de todos los miembros de la sociedad, para que puedan convertirse en agentes activos de cambio en sus propias vidas y en sus comunidades. Únete a nosotros mientras trabajamos juntos para construir un mundo más justo y sostenible para las generaciones presentes y futuras

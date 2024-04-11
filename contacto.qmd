@@ -1,0 +1,21 @@
+---
+title: "contactos"
+image: contacto.gif
+about:
+  template: jolla
+  links:
+    - icon: whatsapp
+      text: whatspp
+      href: https://wa.link/f4qdb8
+    - icon: github
+      href: https://github.com/yeisondelatorre
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+**Correo Electrónico:** **`tesnova2022@gmail.com`**
+
+**Teléfono:** **`3017933591`**
+
+**Dirección:** **`Kra 66b # 46a1 - 39 - Santa Marta, Magdalena`**

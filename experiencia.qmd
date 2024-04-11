@@ -1,0 +1,44 @@
+---
+title: "Experiencia"
+image: logo.jpg
+about:
+  template: jolla
+  links:
+    - icon: whatsapp
+      text: whatspp
+      href: https://wa.link/f4qdb8
+    - icon: github
+      href: https://github.com/yeisondelatorre
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+### Servicios Técnico con personal calificado con población de la comunidad "***IMPLEMENTACIÓN DE ESTRATEGIAS DE RESTAURACIÓN ACTIVA Y PASIVA MEJORAR LA GESTIÓN EL RECURSO HÍDRICO EN LA ZONA DE INFLUENCIA DEL CORREDOR FUNDACIÓN PALERMO***", se relaciona las principales actividades del contrato realizado
+
+1.  Realizar levantamiento en campo de la oferta, demanda y usos de agua
+    en las Unidades Productivas Agropecuarias
+
+2.  Análisis de balance hídrico de los sistemas productivos
+    agroforestales, agrosilvopastoriles
+
+3.  Implementación de acciones de recuperación y rehabilitación
+    ecológica en áreas protectoras de fuentes hídricas abastecedoras
+    (Reforestación y aislamiento)
+
+4.  Restauración activa y pasiva ecológica en áreas protectoras de
+    fuentes hídricas abastecedoras corredor Fundación -- Palermo.
+
+### \^Servicio de diseño e implementación de unidades productivas en las comunidades Palmor, Mamarongo, Cherua, y Kokldaxa, en la zona rural del municipio de Ciénaga Magdalena requerido en el marco del proyecto de extensión denominado "***FORTALECIMIENTO TECNICO Y SOCIO EMPRESARIAL EN LA PRODUCCION AGRICOLA PARA LA SEGURIDAD ALIMENTARIA DE LAS COMUNIDADES KOGUI DEL MUNICIPIO DE CIENAGA, MAGDALENA***", El servicio comprende
+
+1.  Diseño de especificaciones técnicas para el establecimiento de
+    huertas tradicionales del pueblo Kogui.
+
+2.  Implementación o establecimiento de 100 huertas tradicionales del
+    pueblo Kogui, Io cual comprende: - Localización, descapote, limpieza
+    y guarda raya del área perimetral de cada una de las 100 huertas. -
+    Adecuación de terreno y demarcación o parcelación de cada una de las
+    100 huertas. - Abonamiento de cada una de las 100 huertas.
+
+3.  Implementación de semilleros y germinación en las 100 huertas. -
+    Siembra de 100 huertas.

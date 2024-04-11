@@ -1,0 +1,45 @@
+project:
+  type: website
+
+website:
+  title: "TESNOVA"
+  page-footer:
+    background: light
+    left: "Copyright 2021, Norah Jones" 
+    center: "Call: +57 3186808215"
+    right: 
+      - icon: twitter 
+        href: https://twitter.com/
+      - icon: instagram
+        href: https://www.instagram.com/
+      - icon: whatsapp
+        href: https://wa.link/f4qdb8
+  navbar:
+    tools:
+      - icon: github
+        href: https://github.com/yeisondelatorre
+    background: primary
+    search: true
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "Acerca de nosotros"
+        file: about.qmd
+      - text: "Servicios"
+        file: howto.qmd
+      - text: "Experiencia"
+        file: experiencia.qmd
+      - text: "Contactenos"
+        file: contacto.qmd
+        
+    logo: Logo.jpg
+   
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
